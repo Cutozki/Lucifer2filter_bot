@@ -21,8 +21,8 @@
 # SOFTWARE.
 
 # Telegram Link : https://telegram.dog/Mo_Tech_Group
-# Repo Link : https://github.com/ritheshrkrm17/LuciferMoringstar-Robot
-# License Link : https://github.com/ritheshrkrm17/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LICENSE
+# Repo Link : https://github.com/Cutozki/Lucifer2filter_bot
+# License Link : https://github.com/Cutozki/Lucifer2filter_bot/LICENSE
 
 START_MESSAGE = """Yo...Yo... {mention} 💖
 I'm Powerful Auto-Filter Bot You Can Use Me As A Auto-filter in Your Group
@@ -34,12 +34,12 @@ Thats All, i will Provide Movies There...🤓🤪
 ⚠️More Help Check Help Button Below
 
 
-©️MᴀɪɴᴛᴀɪɴᴇD Bʏ @rithesh_rkrm_17"""
+©️MᴀɪɴᴛᴀɪɴᴇD Bʏ @Cutozki"""
 
 HELP_MESSAGE = """
     🙋🏻‍♂️   Hellooo  {mention} 🤓
 
-○  Tutorial video is here @rai_info17 
+○  Tutorial video is here @Cutozki
 
 ○  it's Note Complicated...🤓
 
@@ -58,11 +58,11 @@ This methord works on any chat, Just type @shinobuxrai_bot and then leave a spac
 
 ○Dont Spam Me...🤒
 
-©️MᴀɪɴᴛᴀɪɴᴇD Bʏ @rithesh_rkrm_17
+©️MᴀɪɴᴛᴀɪɴᴇD Bʏ @Cutozki
 """
 
 ABOUT_MESSAGE = """
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/rithesh_rkrm_17>『ᴘɪʀᴏ』</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Cutozki>『ᴘɪʀᴏ』</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -86,7 +86,7 @@ WELCOME_MESSAGE = """
 𝐇𝐞𝐲 𝐭𝐡𝐞𝐫𝐞 {mention}....!!!!!\n𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 {group_name} 💖"""
 
 FILECAPTION_MESSAGE = """
-• `{file_name}` \n 𝙹𝙾𝙸𝙽 : @Night_MovieZ"""
+• `{file_name}` \n 𝙹𝙾𝙸𝙽 : @Mkvtvseries"""
 
 ADMIN_CMD_MESSAGE = """
 𝙰𝙳𝙼𝙸𝙽𝚂 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 :-
@@ -106,7 +106,7 @@ NOT_SUB = """
 USAGE_MESSAGE = """
 🤠 🄷🄾🅆 🅃🄾 🅄🅂🄴
 
-[𝑯𝒐𝒘 𝒕𝒐 𝒈𝒆𝒕 𝒎𝒐𝒗𝒊𝒆𝒔/𝒔𝒆𝒓𝒊𝒆𝒔 𝒖𝒔𝒊𝒏𝒈 𝒎𝒆...!!!!!!](https://t.me/rai_info17)"""
+[𝑯𝒐𝒘 𝒕𝒐 𝒈𝒆𝒕 𝒎𝒐𝒗𝒊𝒆𝒔/𝒔𝒆𝒓𝒊𝒆𝒔 𝒖𝒔𝒊𝒏𝒈 𝒎𝒆...!!!!!!](https://t.me/Pro_FSerach_bot)"""
 
 
 
