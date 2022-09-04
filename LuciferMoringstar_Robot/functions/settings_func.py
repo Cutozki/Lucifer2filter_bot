@@ -21,8 +21,8 @@
 # SOFTWARE.
 
 # Telegram Link : https://telegram.dog/Mo_Tech_Group
-# Repo Link : https://github.com/ritheshrkrm17/LuciferMoringstar-Robot
-# License Link : https://github.com/ritheshrkrm17/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LICENSE
+# Repo Link : https://github.com/Cutozki/Lucifer2filter_bot
+# License Link : https://github.com/Cutozki/Lucifer2filter_bot/LICENSE
  
 from database.chats_users_mdb import db
 
